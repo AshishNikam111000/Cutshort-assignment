@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cutshort-assignment/static/css/main.c74b9819.css",
-    "main.js": "/Cutshort-assignment/static/js/main.5b21958b.js",
-    "static/js/787.44d0787a.chunk.js": "/Cutshort-assignment/static/js/787.44d0787a.chunk.js",
-    "index.html": "/Cutshort-assignment/index.html",
-    "main.c74b9819.css.map": "/Cutshort-assignment/static/css/main.c74b9819.css.map",
-    "main.5b21958b.js.map": "/Cutshort-assignment/static/js/main.5b21958b.js.map",
-    "787.44d0787a.chunk.js.map": "/Cutshort-assignment/static/js/787.44d0787a.chunk.js.map"
+    "main.css": "/Eden-Setup-Wizard/static/css/main.c74b9819.css",
+    "main.js": "/Eden-Setup-Wizard/static/js/main.9381acaf.js",
+    "static/js/787.44d0787a.chunk.js": "/Eden-Setup-Wizard/static/js/787.44d0787a.chunk.js",
+    "index.html": "/Eden-Setup-Wizard/index.html",
+    "main.c74b9819.css.map": "/Eden-Setup-Wizard/static/css/main.c74b9819.css.map",
+    "main.9381acaf.js.map": "/Eden-Setup-Wizard/static/js/main.9381acaf.js.map",
+    "787.44d0787a.chunk.js.map": "/Eden-Setup-Wizard/static/js/787.44d0787a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c74b9819.css",
-    "static/js/main.5b21958b.js"
+    "static/js/main.9381acaf.js"
   ]
 }
