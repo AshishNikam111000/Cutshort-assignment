@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cutshort-assignment/static/css/main.c74b9819.css",
+    "main.js": "/Cutshort-assignment/static/js/main.5b21958b.js",
+    "static/js/787.44d0787a.chunk.js": "/Cutshort-assignment/static/js/787.44d0787a.chunk.js",
+    "index.html": "/Cutshort-assignment/index.html",
+    "main.c74b9819.css.map": "/Cutshort-assignment/static/css/main.c74b9819.css.map",
+    "main.5b21958b.js.map": "/Cutshort-assignment/static/js/main.5b21958b.js.map",
+    "787.44d0787a.chunk.js.map": "/Cutshort-assignment/static/js/787.44d0787a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74b9819.css",
+    "static/js/main.5b21958b.js"
+  ]
+}
