@@ -1,6 +1,6 @@
 {
-  "short_name": "CutShort Assignment",
-  "name": "CutShort Assignment",
+  "short_name": "Setup Wizard",
+  "name": "Setup Wizard",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
