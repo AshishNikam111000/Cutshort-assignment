@@ -1,4 +1,4 @@
-# Eden
+# Eden-Setup-Wizard
 A setup wizard named 'Eden'. [Link]
 
 ### Languages and Tools:
