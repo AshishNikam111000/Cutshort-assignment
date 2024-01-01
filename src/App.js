@@ -86,7 +86,7 @@ export default function App() {
           </Box>
         </>}
         {activeStep === steps.length && <>
-          <StepWrapper title="Congratualitons," description="You have completed onboarding, you can start using the Eden!." />
+          <StepWrapper title={`Congratualitons, ${state?.name}`} description="You have completed onboarding, you can start using the Eden!." />
           <Button size='small' variant="contained" onClick={handleReset} sx={{mt: 1, mr: 1, backgroundColor:"#784af4", ':hover': {backgroundColor:"#784ae4"}}}>{'Reset'}</Button> 
         </>}
       </Grid>
