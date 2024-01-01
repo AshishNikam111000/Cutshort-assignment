@@ -8,8 +8,6 @@ A setup wizard named 'Eden'. [Link]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/js/default.asp)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/default.asp)
-[<img align="left" alt="GitHub" width="26px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" style="padding-right:10px;" />](https://tailwindcss.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" style="padding-right:10px;" />](https://sass-lang.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
 
 [Link]: https://ashishnikam111000.github.io/Eden-Setup-Wizard/
